@@ -15,6 +15,8 @@ class Plugin extends PluginBase
             'name'        => 'pkleindienst.githubprojects::lang.plugin.name',
             'description' => 'pkleindienst.githubprojects::lang.plugin.description',
             'author'      => 'Pascal Kleindienst',
+            'icon'        => 'icon-github',
+            'homepage'    => 'https://github.com/PascalKleindienst/octobercms-github-projects'
         ];
     }
 
